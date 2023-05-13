@@ -1,0 +1,36 @@
+body {
+    font-family: monospace;
+    margin: 20px;
+    background-color: aliceblue;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.pokemon-dropdown {
+    text-align: center;
+}
+
+.pokemon-details {
+    margin-top: 20px;
+}
+
+.pokemon-card {
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.pokemon-card img {
+    display: block;
+    margin: 0 auto;
+    scale: 200%;
+}
+
+.pokemon-card p {
+    margin: 5px 0;
+    color: white;
+    font-size: 20px;
+}
